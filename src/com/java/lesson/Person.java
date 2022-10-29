@@ -1,4 +1,4 @@
-package com.java;
+package com.java.lesson;
 
 public class Person {
     private String name;
